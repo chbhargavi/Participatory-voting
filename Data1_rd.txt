@@ -1,0 +1,7 @@
+Total No. of TRs      Expected No. of TRs receive GF 	
+0				0		
+5				1						
+10				2
+15				3
+20				4
+25				5								

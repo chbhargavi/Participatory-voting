@@ -1,5 +1,0 @@
-Task\\\_Number 	BULINC 	Chen\\\_et.al 			Jalaly\\\_et.al 			GM 	MGM
-1 		12 			10 				7 					0 	6
-2 		16 			13 				11 					0 	10
-3 		14 			12 				11 					0 	9
-4 		13 			10 				9 					0 	8
